@@ -1,13 +1,6 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER — Replace with your own GIF: record OAK-D depth feed + YOLO overlay, export as 5s loop -->
-<!-- Recommended tool: Gifski or ffmpeg | Size: 900x300px | Upload to repo /assets/banner.gif -->
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│   [ INSERT 5s LOOPING GIF HERE: Real-Time YOLOv8 + Depth Pipeline ]    │
-│   Drag & drop /assets/banner.gif after uploading to this repo           │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+
 
 # Milind Late
 
