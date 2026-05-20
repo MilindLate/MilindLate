@@ -231,23 +231,7 @@ class MilindLate:
 
 <br/>
 
-## 📄 Research & Publications
 
-<div align="center">
-
-| # | Paper | Venue | Year |
-|:-:|-------|:-----:|:----:|
-| 1 | AI for Gender Equality *(add full title + DOI)* | **Springer Nature** | 2024 |
-| 2 | E-Book Systems *(add full title + DOI)* | **IEEE** | 2024 |
-| 3 | Waste Minimization *(add full title + DOI)* | **IEEE / Springer** | 2025 |
-
-</div>
-
-> 📎 Replace placeholders with exact titles and hyperlink each to its DOI
-
-<br/>
-
----
 
 ## 📊 GitHub Analytics
 
