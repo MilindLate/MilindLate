@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=3FB950&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Milind+Late+👋;Physical+AI+Engineer+🤖;Robotics+%7C+Edge+AI+%7C+Computer+Vision+🚁;AIR+4+%E2%80%94+ISRO+IRoC-U+2025+🏆)
 
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/robot-working-on-laptop-illustration-download-svg-png-gif-file-formats--artificial-intelligence-machine-learning-ai-pack-science-technology-illustrations-6155048.png" width="300" alt="robot illustration"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" alt="robot coding illustration"/>
 
 <br/>
 
@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding GIF" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align="right" alt="Coding GIF" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 - 🚁 Building **autonomous drones that actually fly** — not just simulations
 - 🏆 **AIR 4 at ISRO IRoC-U 2025** out of 1,600+ competing teams
@@ -36,7 +36,7 @@
 <a href="https://linkedin.com/in/milind-late" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45" alt="linkedin"/></a>
 <a href="https://scholar.google.com/citations?user=5c9MuwEAAAAJ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" height="35" width="45" alt="google scholar"/></a>
 <a href="https://me.developers.google.com/u/milindlate" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/google/google-icon.svg" height="35" width="45" alt="google developer"/></a>
-<a href="https://myp-7c9t.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" height="35" width="45" alt="portfolio"/></a>
+<a href="https://myp-7c9t.vercel.app/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" height="35" width="45" alt="portfolio"/></a>
 </p>
 
 ---
@@ -47,8 +47,9 @@
 |:---:|:---|:---|
 | 🥇 | ISRO IRoC-U 2025 — **AIR 4** | 1,600+ competing teams |
 | 🏅 | SIH 2025 — **Finalist** · Ministry of Power | Top 5 of 500+ entries |
+| 🤖 | e-Yantra IIT Bombay — **Top Performer** | 95%+ task success rate |
 | 🎓 | Google Student Ambassador — **GID 5926** | 200+ students engaged |
-| 📄 | **3 research conference Papers** | IEEE + Springer Nature |
+| 📄 | **3 Peer-Reviewed Papers** | IEEE + Springer Nature |
 | 🌍 | NASA Space Apps Challenge | WeatherEye — live fire & weather prediction |
 
 ---
@@ -72,8 +73,12 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" height="50"/>
 </p>
@@ -83,9 +88,13 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="SQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50"/>
 </p>
 
 ---
