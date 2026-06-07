@@ -47,9 +47,8 @@
 |:---:|:---|:---|
 | 🥇 | ISRO IRoC-U 2025 — **AIR 4** | 1,600+ competing teams |
 | 🏅 | SIH 2025 — **Finalist** · Ministry of Power | Top 5 of 500+ entries |
-| 🤖 | e-Yantra IIT Bombay — **Top Performer** | 95%+ task success rate |
 | 🎓 | Google Student Ambassador — **GID 5926** | 200+ students engaged |
-| 📄 | **3 Peer-Reviewed Papers** | IEEE + Springer Nature |
+| 📄 | **3 research conference Papers** | IEEE + Springer Nature |
 | 🌍 | NASA Space Apps Challenge | WeatherEye — live fire & weather prediction |
 
 ---
