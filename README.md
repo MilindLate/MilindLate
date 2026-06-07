@@ -103,9 +103,7 @@
 
 <div align="center">
 
-![MilindLate's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MilindLate&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=8b949e&border_radius=10&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MilindLate&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=8b949e&border_radius=10&cache_seconds=1800&langs_count=8)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MilindLate&theme=dark&hide_border=true&background=0D1117&stroke=3fb950&ring=3fb950&fire=FF6B35&currStreakLabel=3fb950&sideLabels=8b949e&dates=8b949e&border_radius=10)
 
