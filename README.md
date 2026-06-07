@@ -112,6 +112,6 @@
 
 <div align="center">
 
-⭐️ From [Milind Late](https://github.com/MilindLate) — *"I train models to see the world. Still working on training myself to sleep."* 🚁
+⭐️ From [Milind Late](https://github.com/MilindLate) — *"I train models to see the world. Still working on training myself to sleep."* 
 
 </div>
