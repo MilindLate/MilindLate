@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=3FB950&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Milind+Late+👋;AI+ML+Engineer+🤖;Robotics+%7C+Edge+AI+%7C+Computer+Vision+%7C+Cloud+computing;AIR+4+%E2%80%94+ISRO+IRoC-U+2025+🏆)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=3FB950&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Milind+Late+👋;AI+ML+Engineer+🤖;Robotics+%7C+Edge+AI+%7C+Computer+Vision+%7C+CloudComputing;AIR+4+%E2%80%94+ISRO+IRoC-U+2025+🏆)
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" alt="robot coding illustration"/>
 
@@ -65,7 +65,7 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50"/>
 </p>
 
-`ROS2` · `YOLOv8` · `OAK-D Pro` · `Cube Orange FC` · `ESP32` · `MAVLink` · `Sensor Fusion` · `UR5 Arm`
+`ROS2` · `YOLO` · `OAK-D Pro` · `Cube Orange FC` · `ESP32` · `MAVLink` · `Sensor Fusion` · `UR5 Arm`
 
 ### 🌐 Web & Cloud
 
