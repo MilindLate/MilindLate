@@ -107,6 +107,10 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MilindLate&theme=dark&hide_border=true&background=0D1117&stroke=3fb950&ring=3fb950&fire=FF6B35&currStreakLabel=3fb950&sideLabels=8b949e&dates=8b949e&border_radius=10)
 
 </div>
+---
+⭐️ From [Milind Late](https://github.com/MilindLate) — *"I train models to see the world. Still working on training myself to sleep."* 
+
+</div>
 
 ---
 <picture>
@@ -116,8 +120,4 @@
 </picture>
 </div>
 
----
-⭐️ From [Milind Late](https://github.com/MilindLate) — *"I train models to see the world. Still working on training myself to sleep."* 
-
-</div>
 
