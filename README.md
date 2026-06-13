@@ -110,12 +110,13 @@
 
 ---
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MilindLate/MilindLate/output/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MilindLate/MilindLate/output/dist/github-snake.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MilindLate/MilindLate/output/dist/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/MilindLate/MilindLate/output/dist/github-snake.svg" />
 </picture>
-<div align="center">
+</div>
 
+---
 ⭐️ From [Milind Late](https://github.com/MilindLate) — *"I train models to see the world. Still working on training myself to sleep."* 
 
 </div>
