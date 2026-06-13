@@ -14,7 +14,7 @@ jobs:
         with:
           github_user_name: MilindLate
           outputs: |
-            dist/github-snake.svg?color_snake=cyan&color_dots=#0d1117,#003d1f,#006d32,#26a641,#39d353
+            dist/github-snake.svg?color_snake=cyan&color_dots=#161b22,#003d1f,#006d32,#26a641,#39d353
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
