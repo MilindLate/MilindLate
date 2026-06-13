@@ -10,10 +10,11 @@ jobs:
     name: Generate snake animation
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: MilindLate
-          svg_out_path: dist/github-snake.svg?color_snake=cyan&color_dots=#0d1117,#006d32,#26a641,#39d353&color_empty=#0d1117
+          outputs: |
+            dist/github-snake.svg?color_snake=cyan&color_dots=#0d1117,#003d1f,#006d32,#26a641,#39d353
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
