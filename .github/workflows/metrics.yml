@@ -1,0 +1,58 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 */6 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["main", "master"]}
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: MilindLate
+          filename: github-metrics.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          config_padding: 10%
+
+          # Coding habits: commit time-of-day / day-of-week charts
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          # Languages
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 8
+
+          # Isometric commit calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # Lighthouse scores for your portfolio
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: https://myp-7c9t.vercel.app
+          plugin_pagespeed_detailed: no
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+
+          # Tech icons row (from your repo topics)
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 0
+
+          plugin_stars: yes
+          plugin_stars_limit: 3
+          plugin_stargazers: yes
+          plugin_lines: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
