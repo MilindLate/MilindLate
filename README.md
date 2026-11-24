@@ -7,7 +7,6 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MilindLate&label=Profile+Views&color=3fb950&style=for-the-badge)](https://github.com/MilindLate)
-[![GitHub followers](https://img.shields.io/github/followers/MilindLate?label=Followers&style=for-the-badge&color=3fb950)](https://github.com/MilindLate)
 
 </div>
 
